@@ -12,9 +12,9 @@ mail from: <msa@communication.microsoft.com>
 rcpt to: <apm.clayanonymous@gmail.com>
 250 2.1.5 <apm.clayanonymous@gmail.com>... Recipient ok
 from: msa@communication.microsoft.com
-500 5.5.1 Command unrecognized: "from: jokowi@presidenri.go.id"
+500 5.5.1 Command unrecognized: "from: msa@communication.microsoft.com"
 From: msa@communication.microsoft.com
-500 5.5.1 Command unrecognized: "From: jokowi@presidenri.go.id"
+500 5.5.1 Command unrecognized: "From: msa@communication.microsoft.com"
 data
 354 Enter mail, end with "." on a line by itself
 From: msa@communication.microsoft.com
